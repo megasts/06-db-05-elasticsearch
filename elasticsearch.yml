@@ -1,0 +1,6 @@
+node.name: netology_test
+network.host: 0.0.0.0
+path.data: /var/lib/elasticsearch/data/
+path.logs: /var/lib/elasticsearch/logs/
+network.publish_host: localhost
+cluster.initial_master_nodes: 127.0.0.1
