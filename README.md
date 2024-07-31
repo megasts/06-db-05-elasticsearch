@@ -82,7 +82,7 @@ cluster.initial_master_nodes: 127.0.0.1
 ```
 - ссылка на образ в репозитории dockerhub:
 ```
-[https://hub.docker.com/repository/docker/megasts/elasticsearch/general](https://hub.docker.com/repository/docker/megasts/elasticsearch/general)
+https://hub.docker.com/repository/docker/megasts/elasticsearch/general
 ```
 - ответ `Elasticsearch` на запрос пути `/` в json-виде:
 
